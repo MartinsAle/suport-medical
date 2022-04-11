@@ -1,3 +1,10 @@
-.portfolio-desc h3 a {
+/* .portfolio-desc h3 a {
     text-transform: uppercase;
-}
+} */
+.font-15{font-size: 15px !important;}
+.font-16{font-size: 16px !important;}
+.font-17{font-size: 17px !important;}
+.font-18{font-size: 18px !important;}
+.servicos-desc-equipe-tec{font-weight: normal !important;}
+
+.padding-fix{padding: 40px 0 0 0 !important;}
